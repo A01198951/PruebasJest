@@ -1,5 +1,6 @@
-// Triangle.js
-
+// Kevin Garcia Sotelo
+// A01198951
+// CODIGO PRINCIPAL A PROBAR
 function triangleType(a, b, c) {
   // Verifica si los lados pueden formar un triángulo
   if (a <= 0 || b <= 0 || c <= 0) {
